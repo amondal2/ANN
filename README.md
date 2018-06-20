@@ -6,9 +6,9 @@ This is my own implementation for a feed-forward artificial neural network (ANN)
 
 I compiled this using a Mac, and gcc (or really clang) version 4.2.1.  Other library requirements and versions will be listed as I continue this project.
 
-## Compliling instructions.
+## Compiling instructions.
 
-If all requirements are satisfied, you can combile using the make file.  I will list how to compile using the makefile, and any specific instructions for test cases, etc as this project continues.
+If all requirements are satisfied, you can compile using the make file.  I will list how to compile using the makefile, and any specific instructions for test cases, etc as this project continues.
 
 ## Folder structure
 
